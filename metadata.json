@@ -1,0 +1,5 @@
+{
+  "name": "AI Stock Training Agent",
+  "description": "Một AI Agent mô phỏng quy trình phân tích và đào tạo giao dịch cổ phiếu.",
+  "requestFramePermissions": []
+}
